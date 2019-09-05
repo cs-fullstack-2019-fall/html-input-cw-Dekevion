@@ -1,0 +1,63 @@
+body{
+    text-align: center;
+    border: groove;
+}
+header{
+    display: inline-block;
+}
+
+#hed1{
+    background-color: dimgray;
+}
+
+#hed2{
+    border-style: dotted;
+}
+
+#sec1{
+    border: ridge;
+}
+
+#sec2{
+    text-align: initial;
+}
+#e1{
+   width: 100%;
+}
+
+sec3{
+    display: inline-block;
+}
+#p1{
+    border: solid;
+    margin: 50px;
+    float: left;
+    padding: 30px;
+    width: 200px;
+}
+#p2{
+    border: solid;
+    margin: 50px;
+    padding: 30px;
+    float: right;
+    width: 200px;
+}
+
+#s1{
+    color: red;
+}
+b1{
+    color: white;
+    background-color: lightgreen;
+}
+#foot2{
+    float: right;
+    width: 300px;
+    border: groove;
+    width: 300px;
+}
+#foot1{
+    border: groove;
+    width: 100px;
+    float: left;
+}
